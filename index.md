@@ -9,6 +9,9 @@ layout: default
 
 ## Partner
 
+* AI2
+* Quorum
+* Uniba
 
 
 ## Contatti
