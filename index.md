@@ -56,8 +56,10 @@ Un’altra funzionalità implementata riguarda la *workspace awareness* finalizz
 Il terzo Plugin è stato integrato con soluzioni tecnologiche commerciali, in particolare con Adobe Photoshop, uno degli strumenti di grafica digitale più usati al mondo. Focalizzandosi sul problema del versionamento, che interessa i più svariati ambiti creativi, è stato sviluppato un plugin capace di tener traccia, a seguito di modifiche, delle versioni delle immagini, permettendo inoltre all’operatore di tornare alla precedente versione.    
 
 
-Allegati
+I Plugin Realizzati
  -----------
 
-* Il plugin Project Automator
--- https://youtu.be/Lh__NWLRNQY
+* **Project Automator**
+-- Realizzato nell'ambito dell'attività 4.3 -- [Guarda Video Demo](https://youtu.be/Lh__NWLRNQY)
+* **Development Tools**
+-- Realizzato nell'ambito dell'attività 4.3 --  [Guarda Video Demo](https://youtu.be/H81mdbtRYVE)
