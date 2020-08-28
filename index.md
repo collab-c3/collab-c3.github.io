@@ -60,10 +60,10 @@ I Plugin Realizzati
 -------------
 
 * **Project Automator**
--- Realizzato nell'ambito dell'attività 4.3 -- [Guarda Video Demo](https://youtu.be/Lh__NWLRNQY)
+-- Realizzato nell'ambito dell'attività 4.3 -- [Guarda Video Demo](https://youtu.be/Lh__NWLRNQY){:target="_blank"}
 * **Development Tools**
--- Realizzato nell'ambito dell'attività 4.3 --  [Guarda Video Demo](https://youtu.be/H81mdbtRYVE)
+-- Realizzato nell'ambito dell'attività 4.3 --  [Guarda Video Demo](https://youtu.be/H81mdbtRYVE){:target="_blank"}
 * **Activity Tracker**
--- Realizzato nell'ambito delle attività 4.3 e 4.5 --  [Guarda Video Demo](https://youtu.be/qKNYcF6jSdc)
+-- Realizzato nell'ambito delle attività 4.3 e 4.5 --  [Guarda Video Demo](https://youtu.be/qKNYcF6jSdc){:target="_blank"}
 * **GIT + Photoshop**
--- Realizzato nell'ambito dell'attività 4.5 --  [Guarda Video Demo](https://youtu.be/fwCiQIrDP4s)
+-- Realizzato nell'ambito dell'attività 4.5 --  [Guarda Video Demo](https://youtu.be/fwCiQIrDP4s){:target="_blank"}
