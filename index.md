@@ -60,10 +60,19 @@ I Plugin Realizzati
 -------------
 
 * **Project Automator**
--- Realizzato nell'ambito dell'attività 4.3 -- [Guarda Video Demo](https://youtu.be/Lh__NWLRNQY){:target="_blank"}
+-- Realizzato nell'ambito dell'attività 4.3 -- Il plugin *Project Automator* semplifica una serie di procedure necessarie a far funzionare l'ambiente di sviluppo, permettendo ad utenti non tecnici di lavorare nello stesso ambiente usato dagli stessi sviluppatori.  -- [Guarda Video Demo](https://youtu.be/Lh__NWLRNQY){:target="_blank"}
 * **Development Tools**
--- Realizzato nell'ambito dell'attività 4.3 --  [Guarda Video Demo](https://youtu.be/H81mdbtRYVE){:target="_blank"}
+-- Realizzato nell'ambito dell'attività 4.3 -- Gli strumenti denominati *DevTools* permettono l'integrazione si una serie di funzionalità direttamente nella versione di prova del prodotto finale, permettendo una rapida comunicazione fra tester, creativi, esperti di dominio e sviluppatori con l'obiettivo di migliorare la qualità finale del prodotto. [Guarda Video Demo](https://youtu.be/H81mdbtRYVE){:target="_blank"}
 * **Activity Tracker**
--- Realizzato nell'ambito delle attività 4.3 e 4.5 --  [Guarda Video Demo](https://youtu.be/qKNYcF6jSdc){:target="_blank"}
+-- Realizzato nell'ambito delle attività 4.3 e 4.5 -- L'*Activity Tracker* è uno strumento che mettendo in rete il Tool proprietario con il repository GIT ed i Google Spreadsheet permette di estrarre dati di processo e di visualizzare l'avanzamento delle attività senza richiedere ulteriori azioni, in quanto completamente integrato nel processo e negli strumenti di lavoro.  [Guarda Video Demo](https://youtu.be/qKNYcF6jSdc){:target="_blank"}
+* **Presence Awareness - Chi è online?**
+-- Realizzato nell'ambito dell'attività 4.4 -- In un team distribuito e con obiettivi stringenti è utile conoscere in tempo reale chi sta co-operando alla realizzazione di una Swipe Story. 
+L’ambiente di Authoring è stato arricchito di una specifica funzionalità capace di indicare quali e in quale stato operativo si trovano i diversi membri del team che stanno cooperando sul progetto. [Guarda Video Demo](https://youtu.be/9hqzEUFB1cs){:target="_blank"}
+  * **Workspace Awareness - Annotazioni**
+-- Realizzato nell'ambito dell'attività 4.4 -- In un team distribuito è molto utile abilitare tra gli autori lo scambio di informazioni direttamente collegate ad uno specifico Data Object su cui si sta operando. 
+L’ambiente di Authoring è stato quindi arricchito della funzionalità di creazione e gestione di annotazioni in grado di supportare il flusso di lavoro all’interno del team. 
+Viene presentato il caso d’uso di attività di revisione del prodotto in fase di realizzazione.  [Guarda Video Demo](https://youtu.be/C3c8YbQJWZc){:target="_blank"}
+  * **Workspace Awareness - Evitare conflitti**
+-- Realizzato nell'ambito dell'attività 4.4 -- In un team distribuito, per un autore è molto utile conoscere, in tempo reale, i contenuti (ad esempio una scena di un episodio) sul quale gli altri autori del team stanno lavorando e che non hanno ancora sincronizzato sul repository. Questo consente di prevenire il nascere di un potenziale conflitto al momento della fusione e sincronizzazione delle modifiche degli autori. [Guarda Video Demo](https://youtu.be/foGjTg2mvIU){:target="_blank"}
 * **GIT + Photoshop**
--- Realizzato nell'ambito dell'attività 4.5 --  [Guarda Video Demo](https://youtu.be/fwCiQIrDP4s){:target="_blank"}
+-- Realizzato nell'ambito dell'attività 4.5 -- Il plugin sviluppato ha permesso di integrare GIT all'interno del software Adobe Photoshop, abilitando la possibilità di interagire con il sistema di versionamento senza abbandonare lo spazio di lavoro.  [Guarda Video Demo](https://youtu.be/fwCiQIrDP4s){:target="_blank"}
