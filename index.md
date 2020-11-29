@@ -65,6 +65,12 @@ I Plugin Realizzati
 -- Realizzato nell'ambito dell'attività 4.3 -- Gli strumenti denominati *DevTools* permettono l'integrazione si una serie di funzionalità direttamente nella versione di prova del prodotto finale, permettendo una rapida comunicazione fra tester, creativi, esperti di dominio e sviluppatori con l'obiettivo di migliorare la qualità finale del prodotto. [Guarda Video Demo](https://youtu.be/H81mdbtRYVE){:target="_blank"}
 * **Activity Tracker**
 -- Realizzato nell'ambito delle attività 4.3 e 4.5 -- L'*Activity Tracker* è uno strumento che mettendo in rete il Tool proprietario con il repository GIT ed i Google Spreadsheet permette di estrarre dati di processo e di visualizzare l'avanzamento delle attività senza richiedere ulteriori azioni, in quanto completamente integrato nel processo e negli strumenti di lavoro.  [Guarda Video Demo](https://youtu.be/qKNYcF6jSdc){:target="_blank"}
+
+* **Swipe Story: Tool di Authoring**
+-- Un'introduzione al tool authoring di swipestory per creare storie interattive basato sul game engine Unity.
+Il tool è stato oggetto per l'estensione e l'integrazione dei plugin di Presence e Workspace Awareness sviluppati e delle funzionalità versionamento degli asset digitali (git-based).
+[Guarda Video]( https://drive.google.com/file/d/1_ZkdVb1RzHHjtkXrL246Q_ptSsu9VXgg/view?usp=sharing){:target="_blank"}
+
 * **Presence Awareness - Chi è online?**
 -- Realizzato nell'ambito dell'attività 4.4 -- In un team distribuito e con obiettivi stringenti è utile conoscere in tempo reale chi sta co-operando alla realizzazione di una Swipe Story. 
 L’ambiente di Authoring è stato arricchito di una specifica funzionalità capace di indicare quali e in quale stato operativo si trovano i diversi membri del team che stanno cooperando sul progetto. [Guarda Video Demo](https://youtu.be/9hqzEUFB1cs){:target="_blank"}
